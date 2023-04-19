@@ -3,12 +3,23 @@
     <channel>
         <title>SparkleTest</title>
         <item>
+            <title>0.0.2</title>
+            <pubDate>Wed, 19 Apr 2023 19:26:38 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="SparkleTest_0.0.2.zip" length="961639" type="application/octet-stream" sparkle:edSignature="dJ/jqDBszAfyYtYaJBoazOJfihgY3ritXSF0HZV7RqTqJ+T4qlfT2aKq49VeCapqphLDEVkLcWu/QCNvp3xVAg=="/>
+            <sparkle:deltas>
+                <enclosure url="//SparkleTest2-1.delta" sparkle:deltaFrom="1" length="12150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="863040" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CHLIoI97zPZxdGa8y6sZ8oz0gjSp5Z4DH2quhqEPclH8RTOI10Gewx+lg2ng67ht5FNtwz7QtBfZHzmnYxzZDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.1</title>
-            <pubDate>Wed, 19 Apr 2023 17:58:06 +0200</pubDate>
+            <pubDate>Wed, 19 Apr 2023 19:26:25 +0200</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.2</sparkle:minimumSystemVersion>
-            <enclosure url="SparkleTest_0.0.1.zip" length="954296" type="application/octet-stream" sparkle:edSignature="Pi/voH8r56eIZdFzcckQUhTE1oFkjuFX40ylPgBBrregI6jXj0ZUQWafHyxq08bAcdNrG7Ei58Dk40VAPnYEDw=="/>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="SparkleTest_0.0.1.zip" length="961682" type="application/octet-stream" sparkle:edSignature="8jhDNtJ7Uak4qqbjuHSS5HmExZ9fWwFXVIZhW7YW/hSFiKhxrCL3vKcmdY0K+swaYKs4z+JwvRxwUWkGKRajBQ=="/>
         </item>
     </channel>
 </rss>
